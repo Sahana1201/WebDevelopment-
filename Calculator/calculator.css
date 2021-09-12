@@ -1,0 +1,39 @@
+body{
+    height: 100%;
+}
+.bg{
+    background-image:url("calsiImage/images.jpg") ;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    text-align: center;
+    color: brown;
+    font-size:300%;
+}
+.h2{
+    text-align: center;
+    color: brown;
+    font-size:200%;
+
+}
+.result{
+   
+    text-align: center;
+    color: crimson;
+    font-size: 150%;
+   
+}
+.lable{
+    text-align: center;
+    color:darkolivegreen;
+    font-size: 100%;
+
+}
+.button{
+   
+    text-align: center;
+    color:darkorange;
+    font-size: 100%;
+}
